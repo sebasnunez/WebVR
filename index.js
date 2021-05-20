@@ -9,9 +9,9 @@ function redireccionar(id){
     console.log(id);
     switch(id){
         case 1: 
-        window.location="/Ejercicio2.html";
+        window.location="./Ejercicio2.html";
         break;
         case 2: 
-        window.location="/";
+        window.location="./";
     }
 }
